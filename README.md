@@ -2,7 +2,7 @@
 
 
 #Problem Statement
-#In this project, I devloped deep into the thriving sector of online retail by analyzing 
+In this project, I devloped deep into the thriving sector of online retail by analyzing 
 a transactional dataset from a UK-based retailer, available at the UCI Machine 
 Learning Repository. This dataset documents all transactions between 2010 and 
 2011. Our primary objective is to amplify the efficiency of marketing strategies 
