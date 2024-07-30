@@ -1,4 +1,6 @@
 # Customer_Segmentation_Recommendation_System
+
+
 #Problem Statement
 #In this project, I devloped deep into the thriving sector of online retail by analyzing 
 a transactional dataset from a UK-based retailer, available at the UCI Machine 
@@ -12,6 +14,8 @@ distinct profiles and preferences of different customer groups. Building upon th
 we intend to develop a recommendation system that will suggest top-selling 
 14 products to customers within each segment who haven't purchased those items 
 yet, ultimately enhancing marketing efficacy and fostering increased sales.
+
+
 #Objective
 Data Cleaning & Transformation: Clean the dataset by handling missing values, duplicates, 
 and outliers, preparing it for effective clustering. 
@@ -26,6 +30,8 @@ strategies and assess the quality of the clusters formed.
 Recommendation System: Implement a system to recommend best-selling products to 
 customers within the same cluster who haven't purchased those products, aiming to boost sales 
 and marketing effectiveness.
+
+
 #Purpose
 The purpose of the Customer Segmentation is to divide a customer base into groups that share 
 similar characteristics and behaviour. This Segmentation enables businesses to better 
