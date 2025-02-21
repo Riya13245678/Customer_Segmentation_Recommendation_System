@@ -37,3 +37,8 @@ The purpose of the Customer Segmentation is to divide a customer base into group
 similar characteristics and behaviour. This Segmentation enables businesses to better 
 understand their customer’s needs, preferences and behaviour, allowing for more targeted 
 marketing strategies, product customization, and improved customer service.
+
+
+
+
+
